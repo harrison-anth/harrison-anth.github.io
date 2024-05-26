@@ -4,7 +4,10 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/octojekyll.png" caption="Octojekyll." width=300 align="right" %}
+{% include image.html url="/images/twitt_pic.jpg" caption="Bird watching in the Aran Islands" width=300 align="right" %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit mattis nulla eu cursus. Fusce finibus, orci sit amet tincidunt fermentum, risus ante pharetra nisi, eget tempus tellus tellus ut est. Nunc tempus cursus arcu mattis ultricies. Cras volutpat purus et lectus facilisis tempor. Suspendisse at lorem feugiat, feugiat massa vel, scelerisque dolor. Proin justo nisl, mattis eu sapien in, efficitur fringilla nulla. Phasellus placerat, lacus in venenatis tristique, risus dolor eleifend felis, vitae finibus augue nibh ut libero. Morbi sit amet tincidunt lorem.
+I am a PhD candidate at the University of Galway in Ireland. My research focuses on microsatellite instabitlity and 
+what affects the ability to detect it in next-generation sequencing data. I am broadly interested in the evolutionary
+consequences of asexual vs sexual reproduction, models of neutral/non-neutral evolution, invasive species,
+polyploidy, and the interplay between genetic and epigenetic variation in phenotypes. 
 
