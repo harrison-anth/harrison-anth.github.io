@@ -1,2 +1,0 @@
-This is a website I have created to showcase myself as a researcher and scientist. This is a link to the HTML based Github Pages tutorial I have been referencing. 
-View example: https://cplmakerlab.github.io/simple-website-template/
