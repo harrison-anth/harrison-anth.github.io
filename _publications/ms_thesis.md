@@ -1,7 +1,7 @@
 ---
 title: "How Does Genomic Variation Evolve in Asexual Populations After an Invasion Event?"
 collection: publications
-category: manuscripts
+category: thesis
 permalink: /publication/ms_thesis
 excerpt: 'This thesis aimed to address the genetic paradox of invasion using a non-model organism (the New Zealand Mudsnail). We compared the genetic diversity of invasion North American 
 populations to see if that could account for their successful invasive history. Interestingly, we found some evidence of genetic differentiation between populations despite these populations 
