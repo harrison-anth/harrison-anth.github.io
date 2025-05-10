@@ -1,7 +1,7 @@
 ---
-title: "MSI tool performance metric analysis suites"
-excerpt: "A suite of different tools used to detect microsatellite instability in next-generation sequencing data, 
-and the necessary code to benchmark them. <br/><imgsrc='/images/benchmark_portfolio_pic.jpg'>"
+title: "MSI tool performance metric analysis suite"
+excerpt: "A suite of code and scripts to measure the performance of microsatellite instability tools in 
+next-generation sequencing data. <br/><img src='/images/benchmark_portfolio_pic.jpeg'>"
 collection: portfolio
 ---
 
