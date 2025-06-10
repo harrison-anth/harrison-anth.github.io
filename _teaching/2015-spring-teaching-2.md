@@ -1,5 +1,5 @@
 ---
-title: "BIO102 -- General biology"
+title: "General biology"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
