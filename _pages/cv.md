@@ -22,7 +22,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
+Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -34,33 +34,55 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Service and leadership
+Grants and awards
 ======
-* Currently signed in to 43 different slack teams
+2024 - First place in Biohackathon, University of Galway, $260 
+2021 - Exception Service Award, Washington State University, $100
+2020 - Elling-Higgenbothom Travel Grant, Washington State University, $1200
+2019 - Elling-Higgenbothom Travel Grant, Washington State Universit,y $1000
+2017 - Undergraduate Research Grant, University of Idaho, $1,000
+2016 - Undergraduate Research Grant, University of Idaho, $1,000
 
-Work experience
+Professional experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2019-2021: Academic Adviser
+  * Washington State University
+  * Created schedules and discussed coursework with new students
+  * Fast-paced work that required attention to detaiil 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017-2018: Office Manager
+  * Cedar Veterinary Hospital
+  * Overseer of office tasks and accounts receivable
+  * Helped turnaround struggling business
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* 2017: Political Campaign Manager
+  * Moscow City Council Election
+  * Organizer of events and coordinator of volunteers
+
+* 2014: Political Campaign Intern:
+  * Idaho Democratic Party
+  * Supervisor and instructor of volunteers 
+
+* 2012-2013: Research Assistant
+  * University of Idaho
+  * Greenhouse, fieldwork, and laboratory assistant
+  * Oil content analysis of canola and mustard seeds
+
+* 2012: Wildlife Education Intern:
+  * Idaho Department of Fish and Game
+  * Responsible for care of exotic animals
+  * Supervisor of volunteers and children
+
+Services and Outreach
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* 2024: Journal Review, *Briefings in Bioinformatics*
+* 2024: Symposium Organizer, Virtual Institute of Bioinformatics and Evolution/Irish 
+Computational Biology and Genomics Joint Symposium, University of Galway
+* 2020: Symposium Organizer, School of Biological Sciences 
+Graduate Student Symposium, Washington State University
+* 2019-2020: Committee Member, Professional Development Initiative, 
+Washington State University
+* 2019-2020: Event Organizer, Biology Graduate Student Association,
+ Washington State University 
+* 2015-2017: Undergraduate Reesearch Mentor, Phi Sigma Biology Honor Society, 
+University of Idaho
