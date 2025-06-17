@@ -16,5 +16,4 @@ novel pipeline that measures heterogeneity in the biomarker at the single-cell l
 (see the projects section of the website), these two portions of my thesis showcase my abilities as a bioinformatician and 
 biologist.
 
-If this website has not answered your questions please feel free to contact me 
-with the links on the left, and thank you for your interest in my research.
+If this website has not answered your questions please feel free to contact me, and thank you for your interest in my research.
