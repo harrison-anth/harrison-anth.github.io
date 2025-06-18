@@ -2,7 +2,7 @@
 title: "Intratumoral heterogeneity in microsatellite instability status at single cell 
 resolution"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/msih_ith
 excerpt: 'We addressed the ambiguities surrounding computational tools used to detect microsatellite instability in genetic sequencing data by evaluating and comparing their performance across several distinct datasets.'
 date: 2024-08-12
