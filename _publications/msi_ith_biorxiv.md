@@ -4,8 +4,17 @@ resolution"
 collection: publications
 category: preprints
 permalink: /publication/msih_ith
-excerpt: 'We addressed the ambiguities surrounding computational tools used to detect microsatellite instability in genetic sequencing data by evaluating and comparing their performance across several distinct datasets.'
-date: 2024-06-15
+excerpt: 'In this preprint, we identified MSI at the single cell level. This was done by 
+creating a novel computational pipeline that uses machine learning tools that have been 
+tested to work with single-cell RNA sequencing data. From there we developed methods to 
+quanitfy intratumoral heterogeneity in MSI status with statistical tests and by inferring 
+subclonality. Our most notable result is that intratumoral heterogeneity in MSI status is
+more common than previously thought and most individuals in the study had both MSI-H and 
+MSS subclones regardless of established IHC/PCR status. This has the potential to be 
+largely impactful in the field because intratumoral heterogeneity is known to complicate 
+biomarker interpretation and contributes to primary treatment resistance, both of which are 
+known issues with using MSI as a biomarker.'
+date: 2025-06-14
 venue: 'bioRxiv'
 paperurl: 'http://harrison-anth.github.io/files/msi_ith.pdf'
 bibtexurl: 'http://harrison-anth.github.io/files/msih_ith.bibtex'
