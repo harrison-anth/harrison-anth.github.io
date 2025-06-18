@@ -3,7 +3,7 @@ title: "Intratumoral heterogeneity in microsatellite instability status at singl
 resolution"
 collection: publications
 category: preprints
-permalink: /publication/ithmsi
+permalink: /publication/ith_msi
 excerpt: 'Currently MSI-H is tested and treated as a dichotomous biomarker. However, there are
 reports of low response rate and inherent treatment resistance when used to help guide 
 immune checkpoint inhibitor treatment. These two phenomena are known to occur when a tumor 
