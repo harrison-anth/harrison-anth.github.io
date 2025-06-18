@@ -2,7 +2,7 @@
 title: "Intratumoral heterogeneity in microsatellite instability status at single cell
 resolution"
 collection: publications
-category: preprints
+category: manuscripts
 permalink: /publication/ith_msi
 excerpt: 'Currently MSI-H is tested and treated as a dichotomous biomarker. However, there are
 reports of low response rate and inherent treatment resistance when used to help guide 
