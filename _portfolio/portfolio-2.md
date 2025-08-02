@@ -5,4 +5,4 @@ excerpt: "I developed a Snakemake pipeline to quantify intratumoral heterogeneit
 collection: portfolio
 ---
 
-https://github.com/harrison-anth/sc_msi
+https://github.com/harrison-anth/single_msi
