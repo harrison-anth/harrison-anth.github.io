@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD in Genomics Data Science, University of Galway, 2025 (expected)
+* PhD in Genomics Data Science, University of Galway, 2025
 * MSc in Biology, Washington State University, 2021
 * GCert in Bioinformatics, Washington State University, 2021
 * BS in Biology, University of Idaho, 2017
