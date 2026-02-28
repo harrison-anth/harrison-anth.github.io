@@ -1,16 +1,16 @@
 ---
-title: "Performance assessment of computational tools to detect microsatellite instability"
+title: "Paper Title Number 1"
 collection: publications
-category: manuscripts
-permalink: /publication/benchmark_msi
-excerpt: '
-Testing performance of MSI tools on different NGS datasets.'
-date: 2024-08-12
-venue: 'Briefings in Bioinformatics'
-paperurl: 'http://harrison-anth.github.io/files/benchmark_msi.pdf'
-bibtexurl: 'http://harrison-anth.github.io/files/benchmark_msi.bibtex'
-citation: 'Anthony, H., & Seoighe, C. (2024). Performance assessment of computational tools to detect microsatellite instability. 
-<i>Briefings in Bioinformatics<\i>, 25(5). 
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-We addressed the ambiguities surrounding computational tools used to detect microsatellite instability in genetic sequencing data by evaluating and comparing their performance across 
-several distinct datasets.
+
+<a href='http://academicpages.github.io/files/paper1.pdf'>Download paper here</a>
+
+This paper is about the number 1. The number 2 is left for future work.
+
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
