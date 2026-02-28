@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Harrison Anthony, MSc"
+title                    : "Harrison Anthony, PhD"
 title_separator          : "-"
 name                     : &name "Harrison Anthony"
 description              : &description "Genomic plumber and snail salesman"
@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Harrison Anthony"
   pronouns         : # example: "He/him"  
-  bio              : "PhD student researching microsatellite instability in cancer"
-  location         : "Ireland"
-  employer         : "University of Galway"
+  bio              : "Postdoctoral researcher"
+  location         : "Netherlands"
+  employer         : "Princess Máxima Center for Pediatric Oncology"
   uri              : # URL
-  email            : "h.anthony1@universityofgalway.ie" 
+  email            : "h.d.anthony@prinsesmaximacentrum.nl" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=6Wz_WDIAAAAJ&hl=en"
